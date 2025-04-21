@@ -1,12 +1,3 @@
-/*
-  Warnings:
-
-  - You are about to drop the `user` table. If the table is not empty, all the data it contains will be lost.
-
-*/
--- DropTable
-DROP TABLE "user";
-
 -- CreateTable
 CREATE TABLE "User" (
     "id" TEXT NOT NULL,
@@ -26,14 +17,6 @@ CREATE TABLE "Post" (
     "authorId" TEXT NOT NULL,
 
     CONSTRAINT "Post_pkey" PRIMARY KEY ("id")
-);
-
--- CreateTable
-CREATE TABLE "u3" (
-    "id" INTEGER NOT NULL,
-    "name" TEXT NOT NULL,
-
-    CONSTRAINT "u3_pkey" PRIMARY KEY ("id")
 );
 
 -- CreateIndex

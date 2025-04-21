@@ -8,7 +8,7 @@
   // ],
   "vars": {
     // prisma+ 
-     "DATABASE_URL":"prisma+postgres://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNjI1Yzg1NmUtZjI2MS00MWVlLTliZWMtM2JlYTZjZDgwYTMzIiwidGVuYW50X2lkIjoiYzE4MDBiNzA5ZDIzZWYzZjU5OWEzNTRmZDI4MjA4NzRhYjMzM2I5MjhjYTZjYThiZmE3Nzc4OGFiMjcyMmFlYSIsImludGVybmFsX3NlY3JldCI6IjMxYTUwMmM4LTYxNGItNDI1Ny05ODQ4LTU4MjM3Y2I0OTc1MyJ9.LstC0wO1IpvfG0rSKv3KUr9Hdl9LVKBXlOzaFT0aLC0",
+     "DATABASE_URL":"prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMmUwYjBiZDctNWUyNi00Yzg0LTllMjMtNzEzYzI4ZWNkNDdlIiwidGVuYW50X2lkIjoiYzZjODEyM2ExZjU2NjEyZjg1MTEyMDI0ODk3NDVhYjZmMjU0NWVkMjcxNDQwNGFjY2M3OTFkY2IxMjEwYTA2NSIsImludGVybmFsX3NlY3JldCI6IjcwMzdmYjM5LTMwOTktNDFmOS1hYTFlLTQ3ZDY4MzA4NjBjYSJ9.72u2hW5bsHXPfgP21Rzeu7EQJKtRrCYJnzg9VYdd6xE",
      "JWT_SECRET":"tahirkhan"
   }
   // "kv_namespaces": [
